@@ -1,0 +1,1 @@
+Web app made for my bachelor degree. App for meeting with basic functions like swapping, matching, chatting... With some attempt of chatbot. Used technologies are React.js for frontend, Express.js and Node.js for backend and MongoDB for Data Bases.
